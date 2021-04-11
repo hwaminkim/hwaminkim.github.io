@@ -6,13 +6,14 @@
     <description>Recent content in Blogs on Hwamin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hwamin Kim © {year}</copyright>
+    <managingEditor>your-email (Hwamin Kim)</managingEditor>
+    <webMaster>your-email (Hwamin Kim)</webMaster>
     <lastBuildDate>Fri, 09 Apr 2021 22:43:59 -0500</lastBuildDate><atom:link href="https://hwaminkim.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial Post</title>
       <link>https://hwaminkim.github.io/blog/2021-04-09-initial-post/</link>
       <pubDate>Fri, 09 Apr 2021 22:43:59 -0500</pubDate>
-      
+      <author>your-email (Hwamin Kim)</author>
       <guid>https://hwaminkim.github.io/blog/2021-04-09-initial-post/</guid>
       <description>This is initial post of my blog. After I add my contents, this post will be removed.</description>
     </item>

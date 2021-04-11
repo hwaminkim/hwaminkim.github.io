@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Hwamin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hwamin Kim © {year}</copyright><atom:link href="https://hwaminkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>your-email (Hwamin Kim)</managingEditor>
+    <webMaster>your-email (Hwamin Kim)</webMaster><atom:link href="https://hwaminkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
